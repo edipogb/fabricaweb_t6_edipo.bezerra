@@ -1,0 +1,9 @@
+INDEX VERSION 1.127
+/home/edipo/Projetos Web/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2725729954.index
+/fabricaweb_t6_alison.moura-master/src/main/java
+/home/edipo/Projetos Web/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3936329597.index
+/fabricaweb_t6_alison.moura-master/src/main/java
+/home/edipo/Projetos Web/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/532662153.index
+/cjweb/src/main/java
+/home/edipo/Projetos Web/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1309946329.index
+/cjweb/src/main/java

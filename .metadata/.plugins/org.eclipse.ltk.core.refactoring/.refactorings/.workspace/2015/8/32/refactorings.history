@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;fabricaweb_t6_alison.moura-master&apos; to &apos;cjweb&apos;" description="Rename resource &apos;fabricaweb_t6_alison.moura-master&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/fabricaweb_t6_alison.moura-master" name="cjweb" stamp="1438989041163" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;cjweb&apos; to &apos;cjweb1&apos;" description="Rename resource &apos;cjweb&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/cjweb" name="cjweb1" stamp="1438989764181" updateReferences="true"/>
+</session>
