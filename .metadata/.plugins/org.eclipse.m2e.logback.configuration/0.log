@@ -156,3 +156,7 @@ Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have 
 2015-08-07 20:13:40,310 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/edipo/Projetos Web/cjweb1/src/main/resources
 2015-08-07 20:13:40,312 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2015-08-07 20:13:40,312 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/edipo/Projetos Web/cjweb1/src/test/resources
+2015-08-07 20:18:05,454 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-07 20:18:05,455 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/edipo/Projetos Web/cjweb1/src/main/resources
+2015-08-07 20:18:05,458 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-07 20:18:05,462 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/edipo/Projetos Web/cjweb1/src/test/resources
